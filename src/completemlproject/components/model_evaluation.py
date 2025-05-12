@@ -11,9 +11,9 @@ from src.completemlproject.utils.common import read_yaml,create_directories, sav
 from src.completemlproject.entity.config_entity import ModelEvaluationConfig
 
 
-# os.environ["MLFLOW_TRACKING_URI"]="https://dagshub.com/muhammadfhaider12/completemlproject.mlflow"
-# os.environ["MLFLOW_TRACKING_USERNAME"]="muhammadfhaider12"
-# os.environ["MLFLOW_TRACKING_PASSWORD"]="7aee852bbc048ac740acf5c530520e0bf3d5bbb2"
+os.environ["MLFLOW_TRACKING_URI"]="https://dagshub.com/muhammadfhaider12/completemlproject.mlflow"
+os.environ["MLFLOW_TRACKING_USERNAME"]="muhammadfhaider12"
+os.environ["MLFLOW_TRACKING_PASSWORD"]="7aee852bbc048ac740acf5c530520e0bf3d5bbb2"
 
 
 class ModelEvaluation:

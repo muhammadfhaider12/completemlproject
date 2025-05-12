@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/MUH0351/Projects/complete-ml-project/completemlproject/mlruns/0/a18132cca96b428fa994621834bfd101/artifacts
+end_time: 1747082104026
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a18132cca96b428fa994621834bfd101
+run_name: intelligent-bass-119
+run_uuid: a18132cca96b428fa994621834bfd101
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747082090735
+status: 3
+tags: []
+user_id: MUH0351
